@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mergeeaforecasterapi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DDAE01441DB540F7A0F275767DCD0460 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4996D1E29CF4F7C9CDAC3A04FA5AE48 }}
